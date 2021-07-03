@@ -1,7 +1,7 @@
 # ML Sign Detection (Digits 0 to 9)
 
 ## How to use it
-- Download or clone the project using ```git clone https://github.com/lavsharmaa/221bakerstreet```
+- Download or clone the project using ```git clone https://github.com/lavsharmaa/ml-asl-sign-detection``` or fork the repo.
 
 ## Creating your own dataset
 - ```collect-data.py``` is used for creating your own dataset.
